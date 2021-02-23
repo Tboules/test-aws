@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "testawsd2f114da": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
